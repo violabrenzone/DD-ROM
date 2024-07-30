@@ -10,7 +10,7 @@ In particular, it is structured as follows:
 - [net_T.zip](./net_T.zip), [net_channel.zip](./net_channel.zip), [net_dihedral.zip](./net_dihedral.zip): these folders contain the networks used to generate the training dataset.
 - [phi_def.npz](./phi_def.npz), [psi_def.npz](./psi_def.npz): these are the trained models.
 - [dd-rom_algorithm.ipynb](./dd-rom_algorithm.ipynb): Jupyter notebook with the implementation of the dd-rom algortithm.
-
+- [888_mesh](.\888_mesh): vascular network used to test the algorithm.
 
 # Prerequitsites
 
